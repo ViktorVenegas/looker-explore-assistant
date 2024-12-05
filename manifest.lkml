@@ -1,4 +1,4 @@
-project_name: "demo-looker-explore-assistant"
+#project_name: "demo-looker-explore-assistant"
 
 # # Use local_dependency: To enable referencing of another project
 # # on this instance with include: statements
