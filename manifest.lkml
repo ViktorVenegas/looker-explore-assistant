@@ -7,7 +7,7 @@
 #   project: "name_of_other_project"
 # }
 application: explore_assistant {
-  label: "Explore Assistant"
+  label: "Explore Assistant Demo"
   url: "https://localhost:8080/bundle.js"
   file: "bundle.js"
   entitlements: {
